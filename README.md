@@ -1,4 +1,5 @@
-![logo](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/img/chapel.png)
+
+<img src="https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/img/chapel.png" width="200">
 
 # Chapel : A next generation HPC language
 ----------------------------------------------------------------------------------------
