@@ -13,8 +13,8 @@ begin writeln("Everyone is awesome, you just need to change your perspective");
 ```Chapel
 cobegin{
 writeln("I'm awesome");
-begin writeln("You too can be awesome!");
-begin writeln("Everyone is awesome, you just need to change your perspective");
+writeln("You too can be awesome!");
+writeln("Everyone is awesome, you just need to change your perspective");
 }
 begin writeln("Lets' wait to be awesome!");
 ```
