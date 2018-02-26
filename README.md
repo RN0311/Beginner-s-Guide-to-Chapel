@@ -21,5 +21,6 @@
     * [Procedures](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/Procedures.md)
     * [Reduce](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/Reduce.md)
     * [Scan](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/scan.md)
-
+ 3) Resources
+    * [Resource Bank](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/resources.md)    
 
