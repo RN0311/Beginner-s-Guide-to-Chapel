@@ -1,5 +1,5 @@
 
-<img src="https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/img/chapel.png" width="200">
+<img src="https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/img/new_chapel.png" width="200">
 
 
 # Chapel : A next generation HPC language
