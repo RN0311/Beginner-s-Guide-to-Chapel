@@ -53,5 +53,5 @@ Efficient Parallel Programming](https://chapel-lang.org/papers/DARPA-RFI-Chapel-
 * [Chapel-1.14](https://chapel-lang.org/docs/1.14/)
 * [Chapel-1.15](https://chapel-lang.org/docs/1.15/)
 * [Chapel-1.16](https://chapel-lang.org/docs/1.16/)
-* [Chapel-1.17 pre-relaease](https://chapel-lang.org/docs/master/)
+* [Chapel-1.17 pre-release](https://chapel-lang.org/docs/master/)
 
