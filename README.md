@@ -24,4 +24,5 @@
     * [Scan](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/scan.md)
  3) Resources
     * [Resource Bank](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/blob/master/resources.md)    
-
+ 4) Algorithms 
+    * [Few algorithms in Chapel](https://github.com/RN0311/Beginner-s-Guide-to-Chapel/tree/master/algorithms)
