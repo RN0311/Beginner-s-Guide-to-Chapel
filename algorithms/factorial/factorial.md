@@ -1,11 +1,11 @@
-## Fibonacci Series
+## Factorial
 
 ```Chapel
-proc fibonacci(n : int) : int {
-  if n <= 1 then return n;
-  return fibonacci(n-1) + fibonacci(n-2);
+proc factorial(n : int) : int {
+  if n <= 1 then return 1;
+  return n * fibonacci(n-1);
 }
 ```
 ```Chapel
-writeln(fibonacci(6)) //8
+writeln(factorial(6)) 
 ```
